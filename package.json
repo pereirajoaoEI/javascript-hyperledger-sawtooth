@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "this is a teste for javascript sdk hyperledger sawtooth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pereirajoaoEI/javascript-hyperledger-sawtooth.git"
+  },
+  "keywords": [
+    "javascript",
+    "hyperledger"
+  ],
+  "author": "Joao Pereira e Joao Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pereirajoaoEI/javascript-hyperledger-sawtooth/issues"
+  },
+  "homepage": "https://github.com/pereirajoaoEI/javascript-hyperledger-sawtooth#readme",
+  "dependencies": {
+    "sawtooth": "^0.5.0",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}
